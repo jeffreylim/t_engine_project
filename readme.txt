@@ -41,7 +41,7 @@
    
    
    /**
-    * Classes Involved.
+    * Classes.
     */
 
    main.cpp  ==>initializes the input and output streams and starts the Game. 
