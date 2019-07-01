@@ -1,7 +1,7 @@
 
    Run instructions:
    1) make
-   2) ./project   ( reads from ./input.txt, writes to ./output.txt)
+   2) ./project (reads from ./input.txt, writes to ./output.txt)
    3) make clean
    
    
@@ -44,10 +44,10 @@
     * Classes.
     */
 
-   main.cpp  ==>initializes the input and output streams and starts the Game. 
+   main.cpp ==> initializes the input and output streams and starts the Game. 
    
-   Game.hpp, Game.cpp  ==> Main class for this project.
+   Game.hpp, Game.cpp ==> Main class for this project.
    All operations (Shape drawing, checking and removal of filled rows) occurs here.
    
-   Shape.hpp  ==> Shape definitions and representations.
+   Shape.hpp ==> Shape definitions and representations.
    Contains only enums and static const declarations.
