@@ -50,4 +50,4 @@
    All operations (Shape drawing, checking and removal of filled rows) occurs here.
    
    Shape.hpp ==> Shape definitions and representations.
-   Contains only enums and static const declarations.
+   Contains only enums and static const type declarations.
